@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <div align="center">
 
 </div>
@@ -59,12 +59,12 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<!--
+
 <div align="center">
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyuwon12&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyuwon12&layout=compact)
 </div>
---!>
+
 <br>
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
@@ -72,3 +72,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Hyuwon12@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+-->
