@@ -1,24 +1,10 @@
 
-<!--
-**Hyuwon12/Hyuwon12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <div align="center">
 
 </div>
 
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">Tech Stack </h3>
 <div align="center">  
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
@@ -43,7 +29,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center">📚 Studying 📚</h3>
+<h3 align="center">Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp
@@ -52,7 +38,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<h3 align="center">Tools </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" />&nbsp  
@@ -66,10 +52,9 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">Contact </h3>
 <div align="center">
    <a href="mailto:Hyuwon12@gmail.com">
     <img src="https://img.shields.io/badge/Hyuwon12@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
--->
